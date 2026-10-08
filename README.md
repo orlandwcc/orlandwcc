@@ -38,7 +38,7 @@ I am a Data Science and Cybersecurity Specialist dedicated to transforming compl
 
 ### My Skills
 
-<details open>
+<details close>
 <summary><b>🧠 Data Science, ML & AI</b></summary>
 <br />
 
@@ -75,7 +75,7 @@ I am a Data Science and Cybersecurity Specialist dedicated to transforming compl
 
 <br />
 
-<details open>
+<details close>
 <summary><b>🛡️ Cybersecurity & Pentesting</b></summary>
 <br />
 
@@ -106,7 +106,7 @@ I am a Data Science and Cybersecurity Specialist dedicated to transforming compl
 
 <br />
 
-<details open>
+<details close>
 <summary><b>🗄️ Databases, Cloud & Development Infrastructure</b></summary>
 <br />
 
